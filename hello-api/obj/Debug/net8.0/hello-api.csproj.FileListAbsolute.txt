@@ -1,0 +1,68 @@
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/bin/Debug/net8.0/appsettings.Development.json
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/bin/Debug/net8.0/appsettings.json
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/bin/Debug/net8.0/hello-api
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/bin/Debug/net8.0/hello-api.deps.json
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/bin/Debug/net8.0/hello-api.runtimeconfig.json
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/bin/Debug/net8.0/hello-api.dll
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/bin/Debug/net8.0/hello-api.pdb
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/hello-api.csproj.AssemblyReference.cache
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/hello-api.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/hello-api.AssemblyInfoInputs.cache
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/hello-api.AssemblyInfo.cs
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/hello-api.csproj.CoreCompileInputs.cache
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/hello-api.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/hello-api.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/hello-api.sourcelink.json
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/staticwebassets.build.json
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/staticwebassets.development.json
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/staticwebassets/msbuild.hello-api.Microsoft.AspNetCore.StaticWebAssets.props
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/staticwebassets/msbuild.build.hello-api.props
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.hello-api.props
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.hello-api.props
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/staticwebassets.pack.json
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/scopedcss/bundle/hello-api.styles.css
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/hello-api.csproj.Up2Date
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/hello-api.dll
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/refint/hello-api.dll
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/hello-api.pdb
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/hello-api.genruntimeconfig.cache
+/workspaces/BCBRFS02-dev-environment-alvaro/hello-api/obj/Debug/net8.0/ref/hello-api.dll
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\bin\Debug\net8.0\appsettings.json
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\bin\Debug\net8.0\hello-api.exe
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\bin\Debug\net8.0\hello-api.deps.json
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\bin\Debug\net8.0\hello-api.runtimeconfig.json
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\bin\Debug\net8.0\hello-api.dll
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\bin\Debug\net8.0\hello-api.pdb
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\hello-api.csproj.AssemblyReference.cache
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\hello-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\hello-api.AssemblyInfoInputs.cache
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\hello-api.AssemblyInfo.cs
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\hello-api.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\hello-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\hello-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\hello-api.sourcelink.json
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\staticwebassets\msbuild.hello-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\staticwebassets\msbuild.build.hello-api.props
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.hello-api.props
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.hello-api.props
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\scopedcss\bundle\hello-api.styles.css
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\hello-api.csproj.CopyComplete
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\hello-api.dll
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\refint\hello-api.dll
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\hello-api.pdb
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\hello-api.genruntimeconfig.cache
+C:\Users\alvar\Desktop\DEV\jala\J\Bootcamp\Devops II\BCBRFS02-dev-environment-alvaro\hello-api\obj\Debug\net8.0\ref\hello-api.dll
