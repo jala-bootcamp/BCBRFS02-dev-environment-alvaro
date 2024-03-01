@@ -19,4 +19,3 @@ jobs:
           runCmd: |
             cd hello-api
             dotnet build
-            dotnet run
