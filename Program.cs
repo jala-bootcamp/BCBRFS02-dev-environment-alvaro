@@ -13,7 +13,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.MapPost("/hello", (string name) =>
+app.MapGet("/hello", (string name) =>
 {
   return $"Hello, {name}!";
 });
