@@ -6,11 +6,11 @@ EXPOSE 5201
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 
 WORKDIR /src
-COPY ["./hello-api.csproj", "."]
-RUN dotnet restore "./hello-api.csproj"
+COPY ["hello-api/hello-api.csproj", "hello-api/"]
+RUN dotnet restore "hello-api/hello-api.csproj"
 COPY . .
 
-WORKDIR /src
+WORKDIR "/src/hello-api"
 RUN dotnet build "hello-api.csproj" -c Release -o /app/build
 
 FROM build AS publish
