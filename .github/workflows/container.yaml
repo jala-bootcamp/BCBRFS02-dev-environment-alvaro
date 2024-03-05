@@ -18,6 +18,17 @@ jobs:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
 
+      - name: Set SonarQube properties
+        run: |
+          echo "sonar.projectKey=${{ secrets.PROJECT_KEY }}" > sonar-project.properties
+          echo "sonar.organization=${{ secrets.ORG_KEY }}" >> sonar-project.properties
+
+      - name: SonarQube Scan
+        uses: sonarsource/sonarqube-scan-action@master
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+          SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
+
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
 
@@ -36,11 +47,3 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/${{secrets.DOCKERHUB_REPOSITORY}}:latest
-
-      - name: SonarQube Scan
-        uses: sonarsource/sonarqube-scan-action@master
-        env:
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-          SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
-          sonar.projectKey: ${{ secrets.PROJECT_KEY }}
-          sonar.organization: ${{ secrets.ORG_KEY }}
